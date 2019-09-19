@@ -80,7 +80,7 @@ module.exports = {
 };
 ````
 
-Thats it !
+That's it !
 
 __Author:__
 
