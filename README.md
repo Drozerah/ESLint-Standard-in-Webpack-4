@@ -7,6 +7,8 @@ Install `eslint` from npm, if you haven't already:
 npm install eslint --save-dev
 ````
 
+- more about [ESLint](https://eslint.org/)
+
 Set up a configuration file:
 
 ````bash
@@ -33,7 +35,7 @@ touch .eslintignore
 
 - more about [Ignoring Files and Directories](https://eslint.org/docs/user-guide/configuring#ignoring-files-and-directories)
 
-In addition we configure the `.eslintignore` file
+In addition we configure the `.eslintignore` file:
 
 ````
 # /node_modules/* and /bower_components/* in the project root are ignored by default
@@ -84,7 +86,7 @@ __Author:__
 
 * **Thomas G. aka Drozerah** - [Github](https://github.com/Drozerah)
 
-__License__
+__License:__
 
 * ISC
 
